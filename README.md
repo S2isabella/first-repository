@@ -4,7 +4,7 @@
 self-apresentation
 olá, meu nome é isabella, eu tenho 15 anos e estou no ensino médio.
 Moro em curitiba-PR, no Brasil.
-Meu hobby é ler livros e ás vezes eu jogo.
+Meu hobby é ler livros, qualquer tipo de livro.
 ********************************************
 Hello, my name is Isabella, im 15 and im in high school.
 I live in Curitiba-pr, Brazil.
